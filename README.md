@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @Daniela2-1998
-- 👀 I’m interested in become a Java developer by learning everyday and working in different kind of projects.
-- 🌱 I´ve learn Java by using Youtube channels and some studying platforms like Platzi, tucodigofacilito, and specially, Open Bootcamp.
-- I’m currently learning Spring framework and Spring Boot in Open Bootcamp and soon i´ll be working on a project using these technologies.
-- 💞️ I’m looking to collaborate on any Java project to improve my skills and learn more about this programm lenguage.
-- 📫 How to reach me ...
+<p align="left">
+   <img src="https://img.shields.io/badge/LENGUAJE BASE-EN%20JAVA-blue">
+   <img src="https://img.shields.io/badge/Área 1-%20 PROGRAMACIÓN-red">
+   <img src="https://img.shields.io/badge/Área 2-%20 COMERCIO INTERNACIONAL-purple">
+ </p>
 
-<!---
-Daniela2-1998/Daniela2-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   
+
+ ## Índice 
+
+* [Descripción personal](#descripción-personal)
+
+* [Estudios universitarios](#Estudios-universitarios)
+
+* [Estudios en programación](#Estudios-programación)
+
+* [Idiomas](#Idiomas)
+
+* [Lenguajes de programación y conocimientos relacionados](#Lenguajes-de-programación-y-conocimientos-relacionados)
+
+* [Proyectos](#Proyectos)
+
+* [Intereses laborales](#intereses-laborales)
+
+* [Intereses y hobbies](#intereses-y-hobbies)
+
+
+<h4 align="center">
+:construction: Perfil creandose :construction:
+</h4>
