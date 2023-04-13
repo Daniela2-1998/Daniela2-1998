@@ -33,6 +33,12 @@
 ## Descripción personal:
  Mi nombre es Daniela Mansilla, tengo 24 años y soy de Argentina. Soy licenciada en comercio internacional y desarrolladora en java. Cuento con nivel avanzado tanto en inglés como en portugués.
  
+ Soy una persona ultra curiosa, que le gusta investigar y estudiar constantemente. El trabajo en equipo para mi es una forma de compartir, aprender y cooperar; nada mejor que trabajar en equipo para aprender mejor y lograr mejores resultados.
+ 
+ Me encanta programar, especialmente con java y bases de datos, pero también manejo HTML, CSS, Bootstrap, Javascript, C++ y Spring. Actualmente, sólo subí proyectos desarrollados con Maven, Java, bases de datos PostGreSQL y MySQL, SpringBoot (JPA y JDBC), HTML, CSS, Bootstrap y Spring. 
+ 
+ Veo a la programación como una oportunidad de crear cosas a partir de la detección de problemas y en base a la innovación, creatividad y visualización atráctiva. Básicamente, es crear algo nuevo para brindar soluciones. A su vez, poder ir mejorando cosas cada tanto me parece increible para poder ir actualizándolas y agregando nuevas funcionalidades.
+ 
 ## Estudios universitarios:
 Estudié comercio internacional en la UADE, donde conseguí un título intermedio en el tercer año de la carrera ("Analista en comercio internacional") y al finalizar la carrera, logré la licenciatura en comercio internacional. 
 
@@ -51,10 +57,12 @@ Desde mayo de 2022 llevo realizando proyectos con java, los cúales encontrarás
 
 Mi objetivo para 2023 es seguir aprendiendo en ambientes formales y conseguir un trabajo como java dev para demostrar mis ganas, mis conocimientos y mis capacidades. De momento, 2023 me está brindando la oportunidad en aprender muchas cosas nuevas:
 
-- `C++ en Quark`: durante el mes de febrero obtuve una beca para poder aprender C++ para el desarrollo de videojuegos gracias a que Quark me dió esta oportunidad. Espero poder terminarlo antes de que se cumplan 3 meses de su obtención, pero aún así, estoy aprovechando el curso y tengo una buena base de C++ ya que para el mes de marzo llevo medio curso hecho.
-- `Programación 4.0 - Desarollador Java - UTN`: durante el mes de diciembre de 2022 me confirmaron la vacante pero el curso comenzó recién el 22 de febrero de 2023, con una duración de 2 meses y medio, con 3 horas semanales de clases + actividades grupales + proyecto grupal + guía de ejercicios por clase.
-- `Codo a codo 4.0 - Desarrollador Fullstack con Java`: durante el mes de febrero me llegó un mail diciendo que había sido seleccionada para este bootcamp que comprende HTML, CSS, Javascrip, Bootstrap, MySQL, Java, Git/GitHub. Este bootcamp me va a dar un montón de oportunidades para aprender a detalle temas que no conocía o que bien sabía poco al respecto. Incluye ejercicios y tareas obligatorias y un proyecto final que consiste en una plataforma web utilizando todas las tecnologías aprendidas.
+- `C++ en Quark`: durante el mes de febrero obtuve una beca para poder aprender C++ para el desarrollo de videojuegos gracias a que Quark me dió esta oportunidad. Espero poder terminarlo antes de que se cumplan 3 meses de su obtención, pero aún así, estoy aprovechando el curso y tengo una buena base de C++ ya que para el mes de marzo llevo medio curso hecho. Por suerte, conseguí ampliar su duración a otros 3 meses más.
+- `Programación 4.0 - Desarollador Java - UTN`: durante el mes de diciembre de 2022 me confirmaron la vacante pero el curso 1 comenzó recién el 22 de febrero de 2023, con una duración de 2 meses y medio, con 3 horas semanales de clases + actividades grupales + proyecto grupal + guía de ejercicios por clase. El curso 2 comenzará en el mes de mayo y abarca conceptos relacionados al desarrollo web asociando HTML con Java y tendrá una duración de 2 meses. 
+- `Codo a codo 4.0 - Desarrollador Fullstack con Java`: durante el mes de febrero me llegó un mail diciendo que había sido seleccionada para este bootcamp que comprende HTML, CSS, Javascrip, Bootstrap, MySQL, Java, Git/GitHub. Este bootcamp me va a dar un montón de oportunidades para aprender a detalle temas que no conocía o que bien sabía poco al respecto. Incluye ejercicios y tareas obligatorias y un proyecto final que consiste en una plataforma web utilizando todas las tecnologías aprendidas. Posteriormente, hay un curso de Spring. 
 - `Diseño UXUI - Open Bootcamp`: conseguí una beca para el mes de marzo para aprender diseño UXUI en un bootcamp que dura 6 meses para brindas mejor diseño a mis proyectos webs, móviles y de escritorio. Utilizaré Figma y aprenderé mucho marketing y diseño.
-
+- `Desarrollo Web - Potrero digital`: conseguí una beca de J.P Morgan para aprender a programar. Este bootcamp tiene varias instancias, la primera dura 2 meses y consiste en HTML, CSS y Bootstramp con horas extras de inglés y desarrollo personal. La segunda instancia es de desarrollo web - backend, inglés, y emprendedorismo y plan de negocios. La tercera, incluye algunos lenguajes como PHP y Python, educación financiera e inglés. 
+- `Desarrollo fullstack con java - ALURA ONE`: conseguí una beca para tener acceso a los cursos y proyectos de ALURA-ONE. Estos curso están disponibles por 6 meses y abarcan varias temáticas como desarrollo personal (hábitos, administración del tiempo, perfil Linkendin, etc), git/git hub, HTML, CSS, Bootstrap, Javascript, Java, Springboot, bases de datos etc.
 
 ## Idiomas:
+Tengo nivel avanzado tanto en inglés como en portugués. En el caso de inglés, hice 5 años en el instituto Cambridge de Argentina. En el caso de portugués, estudié en el IGR, ex CCBA, de la embajada de Brasil en Argentina.
