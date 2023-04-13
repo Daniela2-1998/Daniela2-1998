@@ -66,3 +66,8 @@ Mi objetivo para 2023 es seguir aprendiendo en ambientes formales y conseguir un
 
 ## Idiomas:
 Tengo nivel avanzado tanto en inglés como en portugués. En el caso de inglés, hice 5 años en el instituto Cambridge de Argentina. En el caso de portugués, estudié en el IGR, ex CCBA, de la embajada de Brasil en Argentina.
+
+## Proyectos:
+Te invito a visitar mis mejores proyectos:
+- Refucat: software desarrollado para ayudar a los refugios de gatitos con sus tareas de administración y gestión de los gatitos del refugio, de sus cuidadores, y de las familias adoptivas relacionadas con el refugio. Permite controlar los gastos y registrar las visitas al veterinario.
+- ComexApp: 
