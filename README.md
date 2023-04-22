@@ -25,11 +25,6 @@
 * [Intereses y hobbies](#intereses-y-hobbies)
 
 
-<h4 align="center">
-:construction: Perfil creandose :construction:
-</h4>
-
-
 ## Descripción personal:
  Mi nombre es Daniela Mansilla, tengo 24 años y soy de Argentina. Soy licenciada en comercio internacional y desarrolladora en java. Cuento con nivel avanzado tanto en inglés como en portugués.
  
@@ -70,4 +65,37 @@ Tengo nivel avanzado tanto en inglés como en portugués. En el caso de inglés,
 ## Proyectos:
 Te invito a visitar mis mejores proyectos:
 - Refucat: software desarrollado para ayudar a los refugios de gatitos con sus tareas de administración y gestión de los gatitos del refugio, de sus cuidadores, y de las familias adoptivas relacionadas con el refugio. Permite controlar los gastos y registrar las visitas al veterinario.
-- ComexApp: 
+
+Tecnologías: Java, Maven, MySQL.
+
+https://github.com/Daniela2-1998/Proyecto-personal-1-refugio-gatos
+
+- ComexApp: software desarrollado para empresas que se encargan de la comercialización internacional y/o nacional de productos. Para aprovecharla al máximo, lo adecuádo es que la empresa se dedique a ambas actividades y a la producción y abastecimiento de mercaderías ya que se pensó y se construyó basándome en estas áreas. Permite la gestión de operaciones internacionales, nacionales, del stock, de reabastecimiento de materiales primas o partes; el almacenamiento de información de contactos disponibles para todas las empresas y/o privados; generación de informes y estadísticas; creación de PDFs automáticos o personalizados; espacio para guardar sticky notes; establecimiento de objetivos determinando nivel de importancia y fechas; control de tiempos; creación de usuarios y acceso y funciones diferenciadas; configuración del sistema; envío de mails personalizados y automáticos informando sobre oepraciones y actividad del sistema; administración de los usuarios para los administradores; generación de números random; control de contenedores; preferencias; preguntas de seguridad; cambio de contraseña; modificación del usuario propio. 
+
+Tecnologías: Java, Maven, PostGreSQL, PDF.
+
+https://github.com/Daniela2-1998/ComexApp
+
+- Foo Fighters Web: simplemente un proyecto en honor a mi banda favorita para practicar y poner de imágen a mis pasiones juntas.
+
+Tecnologías: HTML, CSS, Bootstrap.
+
+https://github.com/Daniela2-1998/FooFighters
+
+
+
+- Gamers Web: sitio web diseñado para gamers para practicar conceptos y temáticas aprendidas para el desarrollo web. Aún se encuentra en proceso ya que pronto se convertirá en una aplicación web con uso de Javascript y Java.
+
+Tecnologías: HTML, CSS, Bootstrap.
+
+https://github.com/Daniela2-1998/GamersWeb
+
+- TP front Codo a Codo 4.0: recreación de una imágen para construir una página web practicando los conceptos vistos en clases.
+
+Tecnologías: HTML, CSS, Bootstrap.
+
+https://github.com/Daniela2-1998/TP-CAC4.0-Front
+
+## Estadísticas personales:
+![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniela2-1998&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela2-1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
