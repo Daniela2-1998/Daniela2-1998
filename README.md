@@ -1,3 +1,5 @@
+![Banner Linkedin mod](https://github.com/Daniela2-1998/Daniela2-1998/assets/108192404/83c3fcf8-6c51-475e-a078-22dabcbc02d6)
+
 <p align="center">
    <img src="https://img.shields.io/badge/LENGUAJE BASE-EN%20JAVA-blue">
    <img src="https://img.shields.io/badge/Área 1-%20 PROGRAMACIÓN-red">
