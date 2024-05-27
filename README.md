@@ -1,8 +1,21 @@
 
-<p align="center">
-   <img src="https://img.shields.io/badge/LENGUAJE BASE-EN%20JAVA-blue">
-   <img src="https://img.shields.io/badge/Área 1-%20 PROGRAMACIÓN-red">
-   <img src="https://img.shields.io/badge/Área 2-%20 COMERCIO INTERNACIONAL-purple">
+<div id="header" align="center">
+  <div id="badges">
+   <h2>Redes y contacto:</h2>
+    <a href="https://www.linkedin.com/in/daniela-mansilla-javadev/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+   <p>danimansilla27@gmail.com</p>
+  </div>
+</div>
+
+
+
+<p>
+   <h2>Áreas:</h2>
+   <img src="https://img.shields.io/badge/Área 1-PROGRAMACION%20WEB%20Y%20SOFTWARE-blue">
+   <img src="https://img.shields.io/badge/Área 2-%20 DISEÑO-red">
+   <img src="https://img.shields.io/badge/Área 3-%20 INFORMÁTICA-purple">
  </p>
 
    
@@ -11,29 +24,96 @@
 
 * [Descripción personal](#descripción-personal)
   
-* [Lenguajes de programación y conocimientos relacionados](#Lenguajes-de-programación-y-conocimientos-relacionados)
+* [Lenguajes de programación y conocimientos relacionados](#lenguajes-de-programación-y-conocimientos-relacionados)
 
-* [Estudios universitarios](#Estudios-universitarios)
+* [Estudios universitarios](#estudios-universitarios)
 
-* [Estudios en programación](#Estudios-programación)
+* [Estudios en programación](#estudios-programación)
 
-* [Idiomas](#Idiomas)
+* [Idiomas](#idiomas)
 
-* [Proyectos](#Proyectos)
+* [Proyectos](#proyectos)
 
 * [Intereses laborales](#intereses-laborales)
 
 * [Intereses y hobbies](#intereses-y-hobbies)
 
 
+
+### :man_technologist: Sobre mi:
+
+```js
+import Developer from 'danielaMansilla';
+
+class Bio extends Developer {
+  name = 'Mansilla Daniela';
+  pronouns: "she" | "her":
+  passions: 'Desarrollo web','Desarrollo de software', 'Diseño', 'Música', 'Videojuegos';
+  title    = 'Desarrolladora web';
+  company  = 'Freelance';
+  location = 'CABA, Buenos Aires, Argentina';
+}
+
+class Skills extends Developer {
+  languages  = [HTML, CSS, Javascript, Java, PHP];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLServer', 'Firebase'];
+  frameworks = ['React', 'NodeJS','Spring'];
+}
+```
+
+
+
+
+
 ## Descripción personal:
-Mi nombre es Daniela Mansilla, tengo 25 años y soy de Argentina. Soy licenciada en comercio internacional y desarrolladora fullstack de React-Spring. Cuento con nivel avanzado tanto en inglés como en portugués.
- 
+Mi nombre es Daniela Ailen Mansilla, tengo 26 años y soy de Buenos Aires, Argentina. Soy licenciada en comercio internacional con ganas de desempeñarme en el mundo informátco del lado de la programación, ya sea web o de software. Actualmente, estoy realizando proyectos con React y Spring. Cuento con nivel avanzado en inglés y en portugués, por lo que no tengo ningún problema en escribir y trabajar con estos idiomas.
+
 Soy una persona ultra curiosa, que le gusta investigar y estudiar constantemente. El trabajo en equipo para mi es una forma de compartir, aprender y cooperar; nada mejor que trabajar en equipo para aprender mejor y lograr mejores resultados.
 
 Veo a la programación como una oportunidad de crear cosas a partir de la detección de problemas y en base a la innovación, creatividad y visualización atráctiva. Básicamente, es crear algo nuevo para brindar soluciones. A su vez, poder ir mejorando cosas cada tanto me parece increible para poder ir actualizándolas y agregando nuevas funcionalidades.
 
-## Lenguajes de programación y conocimientos relacionados:
+## Conocimientos en informática:
+### :hammer_and_wrench: Lenguajes:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+</div>
+
+### 🐞 Testing:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+</div>
+
+### 🔋 Bases de datos:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; 
+</div>
+
+### 💻 Frontend:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+</div>
+
+### ⏫ Otros:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
+</div>
+
+
+### :hammer_and_wrench: Listado de conocimientos en informática:
 - Java
 - Maven
 - Bases de datos relacionales: PostgreSQL, MySQL.
