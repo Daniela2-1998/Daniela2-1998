@@ -66,11 +66,11 @@ class Skills extends Developer {
 
 
 ## Descripción personal:
-Mi nombre es Daniela Ailen Mansilla, tengo 26 años y soy de Buenos Aires, Argentina. Soy licenciada en comercio internacional con ganas de desempeñarme en el mundo informátco del lado de la programación, ya sea web o de software. Actualmente, estoy realizando proyectos con React y Spring. Cuento con nivel avanzado en inglés y en portugués, por lo que no tengo ningún problema en escribir y trabajar con estos idiomas.
+Mi nombre es Daniela Ailen Mansilla, tengo 26 años y soy de Buenos Aires, Argentina. Soy licenciada en comercio internacional con ganas de desempeñarme en el mundo informático del lado de la programación, aportando mi granito de arena para facilitar, ayudar y agilizar las tareas y funciones diarias de las empresas. Actualmente, estoy realizando proyectos con React y Spring. Cuento con nivel avanzado en inglés y en portugués, por lo que no tengo ningún problema en escribir y trabajar con estos idiomas.
 
-Soy una persona ultra curiosa, que le gusta investigar y estudiar constantemente. El trabajo en equipo para mi es una forma de compartir, aprender y cooperar; nada mejor que trabajar en equipo para aprender mejor y lograr mejores resultados.
+Soy muy curiosa, me gusta investigar y aprender cosas nuevas constantemente. Busco una solución a cada problema y sé como buscar esas soluciones. Veo el trabajo en equipo como una oportunidad para compartir, aprender, mejorar, cooperar y lograr mejores resultados.
 
-Veo a la programación como una oportunidad de crear cosas a partir de la detección de problemas y en base a la innovación, creatividad y visualización atráctiva. Básicamente, es crear algo nuevo para brindar soluciones. A su vez, poder ir mejorando cosas cada tanto me parece increible para poder ir actualizándolas y agregando nuevas funcionalidades.
+Para mi, programar es una oportunidad de crear cosas a partir de la detección de problemas y en base a la innovación, creatividad y visualización atráctica, además del uso adecuado y su funcionamiento lógico y esperable.
 
 ## Conocimientos en informática:
 ### :hammer_and_wrench: Lenguajes:
@@ -139,17 +139,21 @@ Estos estudios me dieron una alta capacidad analítica, de investigación y gran
 Es una carrera que requiere mucho interés en culturas, idiomas y en la investigación ya que se trata de establecer contactos internacionales, negociar correctamente y hacer una buena investigación de mercados para poder ingresar éxitosamente un producto en un nuevo mercado.
 
 ## Estudios en programación:
-Mi interés en programación surge a partir de mi pasión por los videojuegos. Durante mi adolescencia me sentí sumamente intrigada por todo el proceso de producción de videojuegos, pasando por el diseño gráfico, creación de personajes y la programación. 
+Mi interés en programación nació a partir de mi pasión por los videojuegos, donde siempre capto mi atención la programación y el diseño gráfico que requieren. Con la pandemia, retome los videojuegos, y con ello, decidí migrar mi carrera profesional a la tecnología.
 
-Comencé en 2022 estudiando Java de forma autodidacta por medio de canales de Youtube y plataformas como OpenBootcamp, y a medida que iba aprendiendo nuevos conceptos, iba desarrollando proyectos para poner en practica lo aprendido. 
+De esta forma, en 2022 comencé con Java de forma autodidacta usando videos de Youtube, investigando aquellas dudas que surgían como para profundizar conceptos, y creando proyectos por mi cuenta.
 
-En 2023, me estoy dedicando a estudiar con profesores en bootcamps y cursos para poder expandirme a otros lenguajes y profundizar en lo aprendido: 
+En 2023, me dediqué a estudiar con profesores en bootcamps y cursos:
 
-- `Programación 4.0 - Desarollador Java - UTN`: beca para el trayecto de desarrollador Java brindado por la UTN bajo el marco de Argentina Programa 4.0, con una duración de casi 3 meses durante los cuáles se desarrollaron conceptos básicos de java, bases de datos relacionales, git/git hub y se centró en el trabajo el equipo de un software tipo prode para los partidos de fútbol. 
-- `Codo a codo 4.0 - Desarrollador Fullstack con Java y especialización en Spring`: bootcamp de 2 cuatrimestres durante los cuáles se vieron HTML, CSS, Bootstrap, Netlify, Git/GitHub, Javascript, Java, MySQL y Java web. En la especialización, se abarcan conceptos más complejos como interfaces y clases abstractas, POO, programación funcional (lambdas y streams) y el uso del framework Spring.
-- `Desarrollo Fullstack - Potrero digital`: conseguí una beca de J.P Morgan para aprender a programar con Digital House. Cuenta de varias instancias y cursos, para aprender inglés, emprendedorismo, HTML, CSS, Bootstrap, Figma, Javascript y PHP.
-- `Desarrollo fullstack con java - ALURA ONE`: conseguí una beca para tener acceso a los cursos y proyectos de ALURA-ONE. Estos curso están disponibles por 6 meses y abarcan varias temáticas como desarrollo personal (hábitos, administración del tiempo, perfil Linkendin, etc), git/git hub, HTML, CSS, Bootstrap, Javascript y React.
-- `Cursos varios - Beca de Udemy`: conseguí una beca para acceder a más de 200 cursos en Udemy para profundizar conocimientos, la cuál aproveché para aprender React, Redux, Context API, Firebase y Spring. Gracias a estos cursos estoy desarrollando proyectos fullstack con ambos frameworks.
+- `Programación 4.0 - Desarollador Java - UTN`: trayecto de 6 meses donde se desarrollaron conceptos de java, bases de datos relaciones, git/git hub y se centró en el trabajo en equipo y la practica con ejercicios y proyectos semanales.
+- `Desarrollo web y con PHP - Potrero Digital`: beca otorgada por J.P Morgan para aprender a programar con Digital House. Se abarcaron cursos de: inglés, emprendimiento, finanzas personales, HTML, CSS, Boostrap, Figma, Javascript y PHP.
+- `Desarrollo fullstack con Java y React - ALURA ONE`: durante este bootcamp de 6 meses, repasé HTML, CSS, Javascript, Bootstrap, MySQL, Java y las bases de React al elegir la especialización en frontend. A su vez, tomé cursos de desarrollo profesional sorbe hábitos, administración del tiempo y creación de perfil de Linkedin.
+- - `Soporte IT- Google Careers/Coursera`: beca para estudiar la carrera de soporte IT. Finalicé 4 módulos de los 5 disponibles.
+- `Desarrollador Fullstack con Java y especialización en Spring - Codo a codo 4.0`: son 2 bootcamps de 4 meses cada uno mediante los cuáles ví por primera vez HTML, CSS, Boostrap, Netlify, Git/GitHub, Javascript y Spring. También, vimos MySQL y Java web, junto a conceptos más complejos como interfaces, clases abstractas, POO, programación funcional (lambdas y streams).
+- `Cursos varios - Beca de Udemy`: conseguí una beca para acceder a más de 200 cursos en Udemy para profundizar conocimientos, la cuál aproveché para aprender React, Redux, Context API, Firebase y Spring. Gracias a estos cursos estoy desarrollando proyectos fullstack con ambos frameworks. También aprendí sobre reparación de laptops.
+- `Desarollador Java/Spring - CODEKI/IT Patagonia`: beca del bootcamp de mujeres otorgado por Codo a Codo, CODEKI y IT Patagonia, para profundizar conocimientos sobre Java y Spring. Se abarcó microservicios, testing, buenas prácticas y otros conceptos complejos.
+
+
   
 ## Idiomas:
 Tengo nivel avanzado tanto en inglés como en portugués. En el caso de inglés, hice 5 años en el instituto Cambridge de Argentina. En el caso de portugués, estudié en el IGR, ex CCBA, de la embajada de Brasil en Argentina.
