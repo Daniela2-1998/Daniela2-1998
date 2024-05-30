@@ -148,49 +148,56 @@ En 2023, me dediqué a estudiar con profesores en bootcamps y cursos:
 - `Programación 4.0 - Desarollador Java - UTN`: trayecto de 6 meses donde se desarrollaron conceptos de java, bases de datos relaciones, git/git hub y se centró en el trabajo en equipo y la practica con ejercicios y proyectos semanales.
 - `Desarrollo web y con PHP - Potrero Digital`: beca otorgada por J.P Morgan para aprender a programar con Digital House. Se abarcaron cursos de: inglés, emprendimiento, finanzas personales, HTML, CSS, Boostrap, Figma, Javascript y PHP.
 - `Desarrollo fullstack con Java y React - ALURA ONE`: durante este bootcamp de 6 meses, repasé HTML, CSS, Javascript, Bootstrap, MySQL, Java y las bases de React al elegir la especialización en frontend. A su vez, tomé cursos de desarrollo profesional sorbe hábitos, administración del tiempo y creación de perfil de Linkedin.
-- - `Soporte IT- Google Careers/Coursera`: beca para estudiar la carrera de soporte IT. Finalicé 4 módulos de los 5 disponibles.
+- `Soporte IT- Google Careers/Coursera`: beca para estudiar la carrera de soporte IT. Finalicé 4 módulos de los 5 disponibles.
 - `Desarrollador Fullstack con Java y especialización en Spring - Codo a codo 4.0`: son 2 bootcamps de 4 meses cada uno mediante los cuáles ví por primera vez HTML, CSS, Boostrap, Netlify, Git/GitHub, Javascript y Spring. También, vimos MySQL y Java web, junto a conceptos más complejos como interfaces, clases abstractas, POO, programación funcional (lambdas y streams).
 - `Cursos varios - Beca de Udemy`: conseguí una beca para acceder a más de 200 cursos en Udemy para profundizar conocimientos, la cuál aproveché para aprender React, Redux, Context API, Firebase y Spring. Gracias a estos cursos estoy desarrollando proyectos fullstack con ambos frameworks. También aprendí sobre reparación de laptops.
 - `Desarollador Java/Spring - CODEKI/IT Patagonia`: beca del bootcamp de mujeres otorgado por Codo a Codo, CODEKI y IT Patagonia, para profundizar conocimientos sobre Java y Spring. Se abarcó microservicios, testing, buenas prácticas y otros conceptos complejos.
 
 
-  
 ## Idiomas:
 Tengo nivel avanzado tanto en inglés como en portugués. En el caso de inglés, hice 5 años en el instituto Cambridge de Argentina. En el caso de portugués, estudié en el IGR, ex CCBA, de la embajada de Brasil en Argentina.
 
 ## Proyectos:
-Te invito a visitar mis mejores proyectos:
-- Refucat: software desarrollado para ayudar a los refugios de gatitos con sus tareas de administración y gestión de los gatitos del refugio, de sus cuidadores, y de las familias adoptivas relacionadas con el refugio. Permite controlar los gastos y registrar las visitas al veterinario.
+Te invito a visitar algunos de mis proyectos:
 
-Tecnologías: Java, Maven, MySQL.
+### Java (software):
+- **Refucat (2022)** (https://github.com/Daniela2-1998/Proyecto-personal-1-refugio-gatos): desarrollado para ayudar a los refugios de gatitos con sus tareas de administración y gestión de los gatitos del refugio, sus cuidadores y de las familias adoptivas. Permite controlar gastos y registrar visitas al veterinario.
+  **Tecnologías:** Java, Maven, MySQL.
 
-https://github.com/Daniela2-1998/Proyecto-personal-1-refugio-gatos
+- **ComexApp (2022)** (https://github.com/Daniela2-1998/ComexApp): para empresas dedicadas al comercio internacional y/o nacional. Permite la gestión de operaciones internacionales, nacionales, del stock, de reabastecimiento de materias primas o partes; el almacenamiento de información de contactos públicos y privados; generación de informes y estadísticas; creación de PDFs automáticos o personalziados; espacio para guardar sticky notes; establecimiento de objetivos determinando nivel de importancia, fechas y áreas o personas afectadas; control de tiempos; creación de usuarios y acceso y funciones diferenciales; configuración del sistema; envío de mails personalizados y automáticos informando sobre próximas operaciones y actividad del sistema; administración de usuarios; control de contenedores; preferencias; preguntas de seguridad y cambio de contraseña.
+  **Tecnologías:** Java, Maven, PostGreSQL, PDF.
 
-- ComexApp: software desarrollado para empresas que se encargan de la comercialización internacional y/o nacional de productos. Para aprovecharla al máximo, lo adecuádo es que la empresa se dedique a ambas actividades y a la producción y abastecimiento de mercaderías ya que se pensó y se construyó basándome en estas áreas. Permite la gestión de operaciones internacionales, nacionales, del stock, de reabastecimiento de materiales primas o partes; el almacenamiento de información de contactos disponibles para todas las empresas y/o privados; generación de informes y estadísticas; creación de PDFs automáticos o personalizados; espacio para guardar sticky notes; establecimiento de objetivos determinando nivel de importancia y fechas; control de tiempos; creación de usuarios y acceso y funciones diferenciadas; configuración del sistema; envío de mails personalizados y automáticos informando sobre oepraciones y actividad del sistema; administración de los usuarios para los administradores; generación de números random; control de contenedores; preferencias; preguntas de seguridad; cambio de contraseña; modificación del usuario propio. 
+  
+### Java/Spring:
+- **Microservicios APICDS (2024)** (https://github.com/Daniela2-1998/APICDS y/o https://github.com/Daniela2-1998/Microservicios-CODEKI): API de CDS que incluye un CRUD y filtros específicos para búsqueda por género, artista, lanzamiento, ofertas y ID. Esta API utiliza la API dolar como práctica de consumo de APIS; y también puede ser utilizada por otras APIs, en este caso, por una propia que se utiliza como factura, obteniendo los datos de un CD para realizar el ticket de compra. Uso de fetch client, eureka server y client y fetch. Conexión a una base de datos MySQL con uso de JPA para la creación de las tablas. Incluye: APICDS, ticket de compra y eureka client. 
+  **Tecnologías:** Maven, Java, MySQL, Eureka, Spring.
 
-Tecnologías: Java, Maven, PostGreSQL, PDF.
+- **TiendaGamer (2023)** (https://github.com/Daniela2-1998/TiendaGamer): API para tienda de videojuegos y tecnología con CRUDS para el registro de: clientes, medios de pago, plataformas, juegos y compras. Más información en su respectivo README.
+  **Tecnologías:** Maven, Java, MySQL, Spring.
 
-https://github.com/Daniela2-1998/ComexApp
+### React:
+- **Sistema de gestión de tienda (2024)** (https://github.com/Daniela2-1998/SistemaDeGestionTienda): sistema de gestión web para tiendas que permite gestionar los productos, empleados, usuarios, proveedores, operaciones de compra y venta y clientes de la base de datos. Genera PDFs con informes de operaciones y productos, y de listados de clientes y empleados. Permite aplicar descuentos que se verán reflejados en los precios de los productos, actualizandolos en base a un % determinado por el usuario.
+  **Tecnologías:** HTML, CSS, Javascript, React y Firebase.
+  **Deploy:** próximamente.
+  
 
-- Foo Fighters Web: simplemente un proyecto en honor a mi banda favorita para practicar y poner de imágen a mis pasiones juntas.
+- **ComexApp web (2024)** (https://github.com/Daniela2-1998/ComexApp-web): 
+  **Tecnologías:** HTML, CSS, Javascript, React y Firebase.
+  **Deploy:** https://comexapp-251c2.web.app/ usuario: davegrohl@gmail.com contraseña: FooFighters1994
 
-Tecnologías: HTML, CSS, Bootstrap.
+### HTML, CSS y JS:
+- **Portfolio (2024)** (https://github.com/Daniela2-1998/portfolio-Daniela-Mansilla): portfolio personal.
+  **Tecnologías:** HTML, CSS y Javascript.
+  **Deploy:** próximamente.
 
-https://github.com/Daniela2-1998/FooFighters
+ **DarcoDevs (2023)** (https://github.com/Daniela2-1998/Darco): sitio web para ofrecer servicios de programación, soporte IT, diseño gráfico y otros servicios relacionados a la informática.
+  **Tecnologías:** HTML, CSS y Javascript.
+  **Deploy:** próximamente.
+  
+- **TP front Codo a Codo 4.0 (2023)** (https://github.com/Daniela2-1998/TP-CAC4.0-Front): proyecto creado para el bootcamp codo a codo con Java.
+  **Tecnologías:** HTML, CSS y Javascript.
+  **Deploy:** https://codoacodo40-tp-front.netlify.app/
 
-
-
-- Gamers Web: sitio web diseñado para gamers para practicar conceptos y temáticas aprendidas para el desarrollo web. Aún se encuentra en proceso ya que pronto se convertirá en una aplicación web con uso de Javascript y Java.
-
-Tecnologías: HTML, CSS, Bootstrap.
-
-https://github.com/Daniela2-1998/GamersWeb
-
-- TP front Codo a Codo 4.0: recreación de una imágen para construir una página web practicando los conceptos vistos en clases.
-
-Tecnologías: HTML, CSS, Bootstrap.
-
-https://github.com/Daniela2-1998/TP-CAC4.0-Front
 
 ## Estadísticas personales:
 ![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniela2-1998&show_icons=true)
