@@ -199,6 +199,13 @@ Te invito a visitar algunos de mis proyectos:
   **Deploy:** https://codoacodo40-tp-front.netlify.app/
 
 
+## Intereses laborales:
+Desarrollarme como profesional en el desarrollo web de la mano de compañeros de los que pueda aprender y con los que pueda compartir día a día. Poder aportar mi responsabilidad, compromiso, dedicación, creatividad y capacidad para facilitar las operaciones de las empresas y particulares, y poder ayudarlos en su visibilidad en Internet.
+
+## Intereses personales y hobbies:
+Me encanta la música y los videojuegos, considero que ambos me ayudan a ser más detallista y a prestar más atención a los requerimientos y detalles. Me gusta eso de superarme constantemente en los videojuegos y a ir superando misiones y consiguiendo trofeos.
+
+
 ## Estadísticas personales:
 ![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniela2-1998&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela2-1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
